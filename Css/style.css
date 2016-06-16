@@ -1,5 +1,5 @@
 body {
-		background-image: url("../Images/grid.jpg");
+		background-image: url("../images/grid.jpg");
 		font-family: Open Sans;
 }
 
@@ -23,7 +23,7 @@ body {
 }
 
 #wrapper {
-		background-image: url("../Images/background/background.jpg");	
+		background-image: url("../images/background/background.jpg");	
 		height: 650px;
 		background-size: cover;	
 		text-align: center;
